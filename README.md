@@ -14,16 +14,6 @@ Apply role-based authorization (Admin vs User)
 Separate concerns between authentication state and application data
 Deploy the application with a live production link
 
-#Tech Stack
-React-Frontend UI
-Vite-Build Tool
-Context API-Authentication & Role State
-Redux Toolkit-Product & Cart State
-React Redux-Store Integration
-CSS-UI Styling
-GitHub-Version Control
-Vercel-Deployment
-
 # Project Structure
 <img width="274" height="312" alt="Screenshot 2026-01-20 at 12 18 57 PM" src="https://github.com/user-attachments/assets/9771b019-43d9-48d2-8964-1f5d502e8ec7" />
 
@@ -47,6 +37,9 @@ A React application demonstrating state management using:
 - Redux Toolkit
 - Context API
 - Vite
+- React Redux
+- CSS-UI
+- Vercel-Deployement
 
 ## How to Run
 ```bash
