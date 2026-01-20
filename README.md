@@ -42,7 +42,7 @@ A React application demonstrating state management using:
 - Vercel-Deployement
 
 # State Management (Redux Toolkit)
-#Products Slice
+# Products Slice
 Stores product catalog
 Actions:
 Add product (Admin only)
