@@ -33,13 +33,31 @@ A React application demonstrating state management using:
 
 
 ## Tech Stack
-- React
-- Redux Toolkit
-- Context API
-- Vite
-- React Redux
+- React-Frontend UI
+- Redux Toolkit-Product & Cart State
+- Context API-Authentication & Role State
+- Vite-Build Tool
+- React Redux-Store Integration
 - CSS-UI
 - Vercel-Deployement
+
+# State Management (Redux Toolkit)
+Products Slice
+
+Stores product catalog
+Actions:
+Add product (Admin only)
+Remove product (Admin only)
+# Cart Slice
+Stores user-specific cart items
+Actions:
+Add to cart (User only)
+Remove from cart (User only)
+Redux ensures predictable and scalable state updates.
+
+# Conclusion
+
+This project successfully demonstrates how Context API and Redux Toolkit can be combined in a React application to build a scalable, maintainable, and role-based system. The separation of authentication and application data improves clarity, performance, and real-world usability.
 
 ## How to Run
 ```bash
