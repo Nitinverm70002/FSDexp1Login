@@ -23,23 +23,9 @@ React Redux-Store Integration
 CSS-UI Styling
 GitHub-Version Control
 Vercel-Deployment
+
 # Project Structure
-src
-├── Component
-│   ├── Login.jsx
-│   └── Dashboard.jsx
-│
-├── context
-│   └── AuthContext.jsx
-│
-├── redux
-│   ├── store.js
-│   ├── productsSlice.js
-│   └── cartSlice.js
-│
-├── App.jsx
-├── main.jsx
-└── index.css
+<img width="274" height="312" alt="Screenshot 2026-01-20 at 12 18 57 PM" src="https://github.com/user-attachments/assets/9771b019-43d9-48d2-8964-1f5d502e8ec7" />
 
 ## Description
 A React application demonstrating state management using:
