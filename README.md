@@ -30,26 +30,31 @@ The dashboard can be easily extended with backend APIs, authentication, charts, 
 
 ---
 
+##  Project Structure
+<img width="291" height="676" alt="Screenshot 2026-02-03 at 10 44 43 PM" src="https://github.com/user-attachments/assets/fdb866f3-859b-401e-b7a7-0f636eae4b8b" />
+
+---
+
 ##  Features
 
 -  **Dashboard Page**
   - Stats cards (Revenue, Users, Orders, Growth)
   - Activity section
-  - <img width="1434" height="776" alt="Screenshot 2026-02-03 at 10 33 00 PM" src="https://github.com/user-attachments/assets/c05987fe-4bd6-4b2e-9535-f409b4e673d7" />
+    <img width="1434" height="776" alt="Screenshot 2026-02-03 at 10 33 00 PM" src="https://github.com/user-attachments/assets/c05987fe-4bd6-4b2e-9535-f409b4e673d7" />
 
 -  **Users Page**
   - User cards with avatars
   - Role & status indicators
-  - <img width="1434" height="776" alt="Screenshot 2026-02-03 at 10 41 54 PM" src="https://github.com/user-attachments/assets/21fc63ef-47f7-49ba-8080-5c41fb6c0961" />
+    <img width="1434" height="776" alt="Screenshot 2026-02-03 at 10 41 54 PM" src="https://github.com/user-attachments/assets/21fc63ef-47f7-49ba-8080-5c41fb6c0961" />
 
 -  **Settings Page**
   - Light/Dark theme toggle
   - Notification preferences
-  - <img width="1434" height="776" alt="Screenshot 2026-02-03 at 10 33 36 PM" src="https://github.com/user-attachments/assets/4b28293a-e56b-4520-93ab-c347fe0e8278" />
+    <img width="1434" height="776" alt="Screenshot 2026-02-03 at 10 33 36 PM" src="https://github.com/user-attachments/assets/4b28293a-e56b-4520-93ab-c347fe0e8278" />
 
 -  **Theme Support**
   - Light & Dark mode using MUI ThemeProvider
-  - <img width="1434" height="776" alt="Screenshot 2026-02-03 at 10 33 24 PM" src="https://github.com/user-attachments/assets/e812f754-4261-4511-9070-2700c5c7aad6" />
+    <img width="1434" height="776" alt="Screenshot 2026-02-03 at 10 33 24 PM" src="https://github.com/user-attachments/assets/e812f754-4261-4511-9070-2700c5c7aad6" />
 
 -  **Reusable Layout**
   - Navbar, Sidebar, Footer as separate components
