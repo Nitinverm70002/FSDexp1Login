@@ -3,8 +3,6 @@
 A modern, responsive **Admin Dashboard** built using **React** and **Material UI (MUI)**.  
 This project demonstrates a clean folder structure, reusable components, theme switching, and a professional dashboard layout suitable for real-world applications.
 
----
-
 ##  Overview
 
 This project is a frontend admin dashboard that includes:
@@ -12,10 +10,6 @@ This project is a frontend admin dashboard that includes:
 - Multiple pages like **Dashboard**, **Users**, and **Settings**
 - Light/Dark theme toggle
 - Clean UI built with Material UI components
-
-It is designed to be **scalable**, **maintainable**, and **interview-ready**.
-
----
 
 ##  Description
 
@@ -28,12 +22,8 @@ The application follows best practices such as:
 
 The dashboard can be easily extended with backend APIs, authentication, charts, and routing.
 
----
-
 ##  Project Structure
 <img width="291" height="676" alt="Screenshot 2026-02-03 at 10 44 43 PM" src="https://github.com/user-attachments/assets/fdb866f3-859b-401e-b7a7-0f636eae4b8b" />
-
----
 
 ##  Features
 
@@ -62,8 +52,6 @@ The dashboard can be easily extended with backend APIs, authentication, charts, 
   - Works on desktop and mobile screens
 -  **Professional Folder Structure**
 
----
-
 ##  Tech Stack
 
 - **Frontend Framework:** React (Vite / CRA)
@@ -72,11 +60,8 @@ The dashboard can be easily extended with backend APIs, authentication, charts, 
 - **State Management:** React Hooks (`useState`)
 - **Version Control:** Git & GitHub
 
----
 
 ##  Conclusion
 
 This project demonstrates how to build a modern and scalable **Admin Dashboard** using **React** and **Material UI**.  
-By following a clean folder structure and component-based architecture, the application becomes easy to maintain, extend, and integrate with real-world backend services.
-
-The project successfully implements reusable layouts, theme switching, and responsive UI design, making it suitable for learning purposes, college projects, and as a foundation for production-ready dashboards.
+By following a clean folder structure and component-based architecture, the application becomes easy to maintain, extend, and integrate with real-world backend services. The project successfully implements reusable layouts, theme switching, and responsive UI design, making it suitable for learning purposes, college projects, and as a foundation for production-ready dashboards.
