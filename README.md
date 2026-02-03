@@ -48,6 +48,8 @@ The dashboard can be easily extended with backend APIs, authentication, charts, 
 
 -  **Reusable Layout**
   - Navbar, Sidebar, Footer as separate components
+    <img width="1437" height="806" alt="Screenshot 2026-02-03 at 10 48 24 PM" src="https://github.com/user-attachments/assets/9f06db4a-ed18-4e3d-90bc-889692a3b1f8" />
+
 -  **Responsive Design**
   - Works on desktop and mobile screens
 -  **Professional Folder Structure**
